@@ -13,7 +13,9 @@ The app includes such features as:
 
 - displaying data in the Array List 
 
-- using AsyncTask -JSON response parsing 
+- using AsyncTask 
+
+- JSON response parsing 
 
 - search functionality within the JSON output.
 
