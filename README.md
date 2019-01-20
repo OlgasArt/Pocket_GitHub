@@ -6,11 +6,16 @@ This app fetches 100 repositories, created after 2019-01-01 and based on the dat
 Features 
 --------------
 
--the app includes such features as:
--fetching data from the API 
--displaying data in the Array List 
--using AsyncTask -JSON response parsing 
--search functionality within the JSON output.
+The app includes such features as:
+
+fetching data from the API 
+
+displaying data in the Array List 
+
+using AsyncTask -JSON response parsing 
+
+search functionality within the JSON output.
+
 
 For better user experience, the app also contains the progress bar, empty view functionality, as well as easy-to-understand interface.
 The app checks whether the device is connected to the internet and responds appropriately. 
