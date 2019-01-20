@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pocket Github</string>
+    <!-- Score title for the amount of score for particular repository[CHAR LIMIT=NONE] -->
+    <string name="score">Total Score: </string>
+    <!-- Text to display in the list when there are no repositories [CHAR LIMIT=NONE] -->
+    <string name="no_repositories">No repository found.</string>
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+    <!-- Hint text for the search bar -->
+    <string name="search_repos">Search in repositories</string>
+</resources>

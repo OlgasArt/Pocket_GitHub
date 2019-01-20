@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!--  Size of regular text in the app list -->
+    <dimen name="regular_text_size">12sp</dimen>
+
+
+</resources>
