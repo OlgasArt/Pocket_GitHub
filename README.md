@@ -8,13 +8,13 @@ Features
 
 The app includes such features as:
 
-fetching data from the API 
+ - fetching data from the API 
 
-displaying data in the Array List 
+- displaying data in the Array List 
 
-using AsyncTask -JSON response parsing 
+- using AsyncTask -JSON response parsing 
 
-search functionality within the JSON output.
+- search functionality within the JSON output.
 
 
 For better user experience, the app also contains the progress bar, empty view functionality, as well as easy-to-understand interface.
@@ -29,6 +29,7 @@ Upon device rotation: layout remains scrollable, app saves state and restore the
 
 The Search button remains visible on the screen after the device is rotated.
 
+__________________________
 
 Created by OlgasArt, available for non-commercial usage.
 
